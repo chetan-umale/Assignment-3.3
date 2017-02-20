@@ -45,7 +45,7 @@ It is responsible for:
 Managing the life-cycle of the Container.
 Monitoring each Container’s Resources utilization.
 
-3. Container:
+Container:
 
 Each Master Node or Slave Node contains set of Containers. In this diagram, Main Node’s Name Node is not showing the Containers. However, it also contains a set of Containers.
 Container is a portion of Memory in HDFS (Either Name Node or Data Node).
